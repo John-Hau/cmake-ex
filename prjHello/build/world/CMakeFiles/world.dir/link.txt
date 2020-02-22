@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libworld.a  CMakeFiles/world.dir/world.c.o
+/usr/bin/ranlib.exe libworld.a
