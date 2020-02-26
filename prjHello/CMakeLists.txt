@@ -6,16 +6,17 @@ project(helloworld)
 aux_source_directory(. DIRSRCS)
 
 #add header file include directories
-include_directories(./app)
+include_directories(./xlib/app)
 
 #add block directory
-add_subdirectory(hello)
-add_subdirectory(world)
-add_subdirectory(app)
+#add_subdirectory(hello)
+#add_subdirectory(world)
+#add_subdirectory(app)
+add_subdirectory(xlib)
 
 
 #target
 add_executable(helloworld ${DIRSRCS})
-target_link_libraries(helloworld  app hello world)
+target_link_libraries(helloworld  xlib)
 
 
