@@ -1,9 +1,0 @@
-/home/Mike/cmake/hello/build/CMakeFiles/rebuild_cache.dir
-/home/Mike/cmake/hello/build/CMakeFiles/helloworld.dir
-/home/Mike/cmake/hello/build/CMakeFiles/edit_cache.dir
-/home/Mike/cmake/hello/build/hello/CMakeFiles/rebuild_cache.dir
-/home/Mike/cmake/hello/build/hello/CMakeFiles/hello.dir
-/home/Mike/cmake/hello/build/hello/CMakeFiles/edit_cache.dir
-/home/Mike/cmake/hello/build/world/CMakeFiles/rebuild_cache.dir
-/home/Mike/cmake/hello/build/world/CMakeFiles/world.dir
-/home/Mike/cmake/hello/build/world/CMakeFiles/edit_cache.dir

@@ -1,2 +1,0 @@
-/usr/bin/ar.exe qc libhello.a  CMakeFiles/hello.dir/hello.c.o
-/usr/bin/ranlib.exe libhello.a
